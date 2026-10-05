@@ -1,0 +1,22 @@
+Part,Qty,Value / Spec,Source,Notes
+Microcontroller,1,Seeed XIAO ESP32S3 (not Sense),Bought,USB-C and LiPo charging built in; includes flexible antenna
+Screen,1,"Waveshare 1.54inch Touch LCD Module, 240x240, ST7789S + CST816D",Bought,Includes 18-pin ribbon and 12-pin cable
+Screen connector,1,18-pin FPC connector for the screen ribbon,LCSC,Confirm pitch and contact side from the Waveshare schematic
+Audio amplifier,2,MAX98357A I2S amp module,Bought,1 spare; header and screw terminal not used
+Microphone,1,ICS-43434 I2S mic module,Bought,3.3V only
+IMU,1,MPU6050 module (GY-521),Owned,I2C address 0x68
+Speaker,1,Speaker box,Salvaged (Google Pixel),Keep the acoustic mesh; polarity does not matter
+Vibration motor,1,Cylinder ERM motor,Salvaged (Google Pixel),Limit to ~70% PWM; keep weight free to spin
+Torch LED,1,Phone flash LED on its flex,Salvaged (phone),Run at ~30 mA; also used as battery and charging indicator
+Battery,1,"LiPo 403035, 3.7V, 450 mAh",Bought,White wire is the temperature sensor; leave unconnected and insulate
+Button,1,"Right-angle tactile switch, through-hole",Owned,On an edge pin so it can wake from deep sleep
+Power switch,1,Small slide switch,Local shop / drawer,In the battery + wire
+Expansion header,1,"8-pin right-angle female header, 2.54 mm",Local shop / drawer,"3V3, GND, SDA, SCL, 2 GPIO, BAT+, GND"
+Transistor,3,"NPN, 2N2222 or BC337",Local shop,"1 for motor, 1 for torch, 1 spare"
+Resistor,2,220 kOhm,Local shop / drawer,Battery voltage divider
+Resistor,2,1 kOhm,Local shop / drawer,Transistor base resistors
+Resistor,1,33 Ohm,Local shop / drawer,Torch LED current limit
+Diode,1,1N4148,Local shop / drawer,Across the motor
+Capacitor,1,"100 nF ceramic (marked 104), any voltage 50V+",Local shop,Divider midpoint to GND; buy 2-3
+Wire,1,"Thin silicone wire, 28-30 AWG",Drawer / shop,
+PCB,5,"Custom 2-layer PCB, 40 x 40 mm",JLCPCB,"Default options: green, 1.6 mm"
