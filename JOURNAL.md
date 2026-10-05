@@ -14,12 +14,14 @@
 
 ## Contents
 
-1. [2026-10-05 — Work session](#2026-10-05-work-session)
+1. [2026-10-05 — Did the schema of the PCB...tomorrow will do the PCB and maybe if i have time do a lot of checks if it will all work](#2026-10-05-did-the-schema-of-the-pcbtomorrow-will-do-the-pcb)
 
 ## Design
 
-### 2026-10-05 — Work session
+### 2026-10-05 — Did the schema of the PCB...tomorrow will do the PCB and maybe if i have time do a lot of checks if it will all work
 
 **2.68h**
+
+Did the schema of the PCB...tomorrow will do the PCB and maybe if i have time do a lot of checks if it will all work
 
 [Timelapse](https://lookout.hackclub.com/api/media/b602afe3-f19c-4688-ae20-dae6b7a85e9c/video.mp4)
