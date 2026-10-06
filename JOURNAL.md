@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-05 — Did the schema of the PCB...tomorrow will do the PCB and maybe if i have time do a lot of checks if it will all work](#2026-10-05-did-the-schema-of-the-pcbtomorrow-will-do-the-pcb)
-2. [2026-10-06 — Work session](#2026-10-06-work-session)
+2. [2026-10-06 — did the PCB layout but didn't finish yet due to some problems with connecting the tracks so will do tomorrow](#2026-10-06-did-the-pcb-layout-but-didnt-finish-yet-due-to-so)
 
 ## Design
 
@@ -27,8 +27,10 @@ Did the schema of the PCB...tomorrow will do the PCB and maybe if i have time do
 
 [Timelapse](https://lookout.hackclub.com/api/media/b602afe3-f19c-4688-ae20-dae6b7a85e9c/video.mp4)
 
-### 2026-10-06 — Work session
+### 2026-10-06 — did the PCB layout but didn't finish yet due to some problems with connecting the tracks so will do tomorrow
 
 **3.08h**
+
+did the PCB layout but didn't finish yet due to some problems with connecting the tracks so will do tomorrow
 
 [Timelapse](https://lookout.hackclub.com/api/media/c148eccf-406e-46a1-87b4-3b5f2a51bb87/video.mp4)
