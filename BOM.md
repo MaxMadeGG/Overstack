@@ -8,7 +8,7 @@
 
 | Week | Tier | Parts funding |
 | --- | --- | --- |
-| Week 1 | Tier 3 | $100.00 |
+| Week 1 | Tier 2 | $65.00 |
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
@@ -18,9 +18,8 @@
 | [MAX98357A Audio Amplifier Module](https://www.amazon.de/-/en/gp/product/B0H5BY33B8/ref=ox_sc_act_image_5?smid=AR5FBYVTNDT9K&psc=1) | control speaker/sound | 1 | $8.00 | $8.00 | [Amazon.de](https://www.amazon.de/-/en/gp/product/B0H5BY33B8/ref=ox_sc_act_image_5?smid=AR5FBYVTNDT9K&psc=1) |
 | [Waveshare 1.54 inch Touch LCD Display](https://www.amazon.de/-/en/gp/product/B0GY4PJFSR/ref=ox_sc_act_image_6?smid=A3U321I9X7C9XA&psc=1) | the main screen to show stuff on it | 1 | $29.00 | $29.00 | [Amazon.de](https://www.amazon.de/-/en/gp/product/B0GY4PJFSR/ref=ox_sc_act_image_6?smid=A3U321I9X7C9XA&psc=1) |
 | [DIP-16](https://www.amazon.de/-/en/gp/product/B0H4X2C233/ref=ewc_pr_img_1?smid=A38U13HUM302L3&psc=1) | for D-pad and buttons control | 1 | $10.00 | $10.00 | [Amazon.de](https://www.amazon.de/-/en/gp/product/B0H4X2C233/ref=ewc_pr_img_1?smid=A38U13HUM302L3&psc=1) |
-| [Light sensor](https://www.amazon.de/-/en/gp/product/B09KZFPRJW/ref=ewc_pr_img_1?smid=A3OTC92J91USZZ&psc=1) | to control brightness of screen | 1 | $3.00 | $3.00 | [Amazon.de](https://www.amazon.de/-/en/gp/product/B09KZFPRJW/ref=ewc_pr_img_1?smid=A3OTC92J91USZZ&psc=1) |
-| **Parts subtotal** | — | — | — | **$90.00** | — |
+| **Parts subtotal** | — | — | — | **$87.00** | — |
 | **Tax & shipping** | — | — | — | **$1.00** | — |
-| **Total** | — | — | — | **$91.00** | — |
+| **Total** | — | — | — | **$88.00** | — |
 
-$9.00 left of the tier's funding.
+**$23.00 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
