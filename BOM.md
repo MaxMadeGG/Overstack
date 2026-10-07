@@ -18,7 +18,7 @@
 | [MAX98357A Audio Amplifier Module](https://www.amazon.de/-/en/gp/product/B0H5BY33B8/ref=ox_sc_act_image_5?smid=AR5FBYVTNDT9K&psc=1) | control speaker/sound | 1 | $8.00 | $8.00 | [Amazon.de](https://www.amazon.de/-/en/gp/product/B0H5BY33B8/ref=ox_sc_act_image_5?smid=AR5FBYVTNDT9K&psc=1) |
 | [Waveshare 1.54 inch Touch LCD Display](https://www.waveshare.com/1.54inch-touch-lcd-module.htm) | the main screen to show stuff on it | 1 | $15.00 | $15.00 | [waveshare](https://www.waveshare.com/1.54inch-touch-lcd-module.htm) |
 | **Parts subtotal** | — | — | — | **$63.00** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$63.00** | — |
+| **Tax & shipping** | — | — | — | **$3.00** | — |
+| **Total** | — | — | — | **$66.00** | — |
 
-$2.00 left of the tier's funding.
+**$1.00 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
