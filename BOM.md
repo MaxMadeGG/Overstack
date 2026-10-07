@@ -17,9 +17,8 @@
 | [ICS-43434 I2S MEMS Microphone module](https://www.amazon.de/-/en/gp/product/B0GY5JJXMW/ref=ox_sc_act_image_3?smid=A3TG06TXX9IODL&psc=1) | recording sound | 1 | $9.00 | $9.00 | [Amazon.de](https://www.amazon.de/-/en/gp/product/B0GY5JJXMW/ref=ox_sc_act_image_3?smid=A3TG06TXX9IODL&psc=1) |
 | [MAX98357A Audio Amplifier Module](https://www.amazon.de/-/en/gp/product/B0H5BY33B8/ref=ox_sc_act_image_5?smid=AR5FBYVTNDT9K&psc=1) | control speaker/sound | 1 | $8.00 | $8.00 | [Amazon.de](https://www.amazon.de/-/en/gp/product/B0H5BY33B8/ref=ox_sc_act_image_5?smid=AR5FBYVTNDT9K&psc=1) |
 | [Waveshare 1.54 inch Touch LCD Display](https://www.amazon.de/-/en/gp/product/B0GY4PJFSR/ref=ox_sc_act_image_6?smid=A3U321I9X7C9XA&psc=1) | the main screen to show stuff on it | 1 | $29.00 | $29.00 | [Amazon.de](https://www.amazon.de/-/en/gp/product/B0GY4PJFSR/ref=ox_sc_act_image_6?smid=A3U321I9X7C9XA&psc=1) |
-| [DIP-16](https://www.amazon.de/-/en/gp/product/B0H4X2C233/ref=ewc_pr_img_1?smid=A38U13HUM302L3&psc=1) | for D-pad and buttons control | 1 | $10.00 | $10.00 | [Amazon.de](https://www.amazon.de/-/en/gp/product/B0H4X2C233/ref=ewc_pr_img_1?smid=A38U13HUM302L3&psc=1) |
-| **Parts subtotal** | — | — | — | **$87.00** | — |
+| **Parts subtotal** | — | — | — | **$77.00** | — |
 | **Tax & shipping** | — | — | — | **$1.00** | — |
-| **Total** | — | — | — | **$88.00** | — |
+| **Total** | — | — | — | **$78.00** | — |
 
-**$23.00 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$13.00 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
