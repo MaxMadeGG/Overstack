@@ -16,7 +16,7 @@
 | [LiPo 3.7V](https://www.amazon.de/-/en/gp/product/B0CLQPJDX3/ref=ox_sc_act_image_1?smid=A3FC6RYAP9RUTR&psc=1) | battery- power | 1 | $13.00 | $13.00 | [Amazon.de](https://www.amazon.de/-/en/gp/product/B0CLQPJDX3/ref=ox_sc_act_image_1?smid=A3FC6RYAP9RUTR&psc=1) |
 | [Waveshare 0.85 inch LCD Display](https://www.amazon.de/-/en/gp/product/B0FRM8KVTD/ref=ox_sc_act_image_1?smid=A1XDN6LSMACAXM&psc=1) | screen to show stuff | 1 | $16.00 | $16.00 | [Amazon.de](https://www.amazon.de/-/en/gp/product/B0FRM8KVTD/ref=ox_sc_act_image_1?smid=A1XDN6LSMACAXM&psc=1) |
 | **Parts subtotal** | — | — | — | **$46.00** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$46.00** | — |
+| **Tax & shipping** | — | — | — | **$12.00** | — |
+| **Total** | — | — | — | **$58.00** | — |
 
-$19.00 left of the tier's funding.
+$7.00 left of the tier's funding.
