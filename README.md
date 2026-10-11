@@ -3,7 +3,7 @@ Overstack
 A tiny 30×30 mm pixel buddy with a little LCD screen that you can chat with an AI or play tiny games, like snake. Tilt to scroll through menus or choose letters by pressing and hold to send. The answer shows up on the screen and it buzzes for feedback.
 
 **How It Works**:
-Main board: XIAO ESP32S3 (WiFi + AI), MPU6050 for tilt, one button, a vibration motor, and a LiPo with a power switch. It charges over the XIAO's USB-C.
+Main board: XIAO ESP32S3 (WiFi + AI), MPU6050 for tilt, one button, a vibration motor and a LiPo with a power switch. It charges over the XIAO's USB-C.
 
 Screen: Waveshare 128×128 LCD
 
