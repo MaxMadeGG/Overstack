@@ -5,7 +5,7 @@ A tiny 30×30 mm pixel buddy with a little LCD screen that you can chat with an 
 **How It Works**:
 Main board: XIAO ESP32S3 (WiFi + AI), MPU6050 for tilt, one button, a vibration motor, and a LiPo with a power switch. It charges over the XIAO's USB-C.
 
-**Screen: Waveshare 128×128 LCD
+Screen: Waveshare 128×128 LCD
 
 Wiring
 
