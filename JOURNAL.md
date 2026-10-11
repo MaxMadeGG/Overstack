@@ -20,7 +20,7 @@
 4. [2026-10-08 – finished the PCB](#2026-10-08-finished-the-pcb)
 5. [2026-10-09 – tried to find a cheaper screen that would work with my project...didn't find tho :(](#2026-10-09-tried-to-find-a-cheaper-screen-that-would-work-wi)
 6. [2026-10-10 – verified the PCB](#2026-10-10-verified-the-pcb)
-7. [2026-10-11 – Work session](#2026-10-11-work-session)
+7. [2026-10-11 – Completely redesigned the project idea and changed the PCB](#2026-10-11-completely-redesigned-the-project-idea-and-change)
 
 ## Design
 
@@ -72,8 +72,10 @@ verified the PCB
 
 [Timelapse](https://lookout.hackclub.com/api/media/f148fab5-712e-4440-a1ac-fd165aa6bf67/video.mp4)
 
-### 2026-10-11 – Work session
+### 2026-10-11 – Completely redesigned the project idea and changed the PCB
 
 **5.2h**
+
+Completely redesigned the project idea and changed the PCB
 
 [Timelapse](https://lookout.hackclub.com/api/media/dd3b990e-68a7-49e8-b8ce-34f5fb1d1b68/video.mp4)
