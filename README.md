@@ -1,13 +1,13 @@
-# Overstack
+Overstack
 
 A tiny 30×30 mm pixel buddy with a little LCD screen that you can chat with an AI on. Tilt to scroll through menus or choose letters, press to pick, long press to send. The answer shows up on the screen and it buzzes for feedback.
 
-## How It Works
-**Main board:** XIAO ESP32S3 (WiFi + AI), MPU6050 for tilt, one button, a vibration motor, and a LiPo with a power switch. It charges over the XIAO's USB-C.
+How It Works
+Main board: XIAO ESP32S3 (WiFi + AI), MPU6050 for tilt, one button, a vibration motor, and a LiPo with a power switch. It charges over the XIAO's USB-C.
 
-**Screen:** Waveshare 128×128 LCD
+Screen: Waveshare 128×128 LCD
 
-**Wiring**
+Wiring
 
 | Screen | Main board |
 | :--- | :--- |
@@ -22,7 +22,7 @@ A tiny 30×30 mm pixel buddy with a little LCD screen that you can chat with an 
 
 Battery, switch and motor are soldered to pads on the main board.
 
-## Bill of Materials (BOM)
+Bill of Materials (BOM)
 | Part | Description | Qty | Price | Vendor |
 | :--- | :--- | :--- | :--- | :--- |
 | XIAO ESP32S3 | Microcontroller | 1 | $17.00 | [Amazon.de]() |
@@ -34,12 +34,12 @@ Battery, switch and motor are soldered to pads on the main board.
 | Waveshare 0.85" LCD | 128×128 IPS, SPI | 1 | $15.00 | [Amazon.de]() |
 | **Total** | | | **$53.00** | |
 
-## Photos & Screenshots
-* **Schematic:** <img width="1364" height="661" alt="image" src="https://github.com/user-attachments/assets/cb5ae8b8-fc70-4f4a-ae5f-44452a09bc34" />
+Photos & Screenshots
+Schematic: <img width="1364" height="661" alt="image" src="https://github.com/user-attachments/assets/cb5ae8b8-fc70-4f4a-ae5f-44452a09bc34" />
 
-* **PCB Layout:** <img width="845" height="839" alt="image" src="https://github.com/user-attachments/assets/2786a0b4-ccbc-4134-8632-328596a2327d" />
+PCB Layout: <img width="845" height="839" alt="image" src="https://github.com/user-attachments/assets/2786a0b4-ccbc-4134-8632-328596a2327d" />
 
-* **3D Model / Build:** <img width="1302" height="903" alt="image" src="https://github.com/user-attachments/assets/7e9544f8-55e4-4a96-8cda-bc765b653f0f" />
+3D Model / Build: <img width="1302" height="903" alt="image" src="https://github.com/user-attachments/assets/7e9544f8-55e4-4a96-8cda-bc765b653f0f" />
 
 ## Repository Structure
 - `hardware/
