@@ -15,9 +15,8 @@
 | [Seed Xiao ESP32-S3](https://www.amazon.de/-/en/gp/product/B0GZTF723K/ref=ewc_pr_img_6?smid=A2OYQMAUQB5NOO&th=1) | Wi-Fi and the main loop | 1 | $17.00 | $17.00 | [Amazon.de](https://www.amazon.de/-/en/gp/product/B0GZTF723K/ref=ewc_pr_img_6?smid=A2OYQMAUQB5NOO&th=1) |
 | [LiPo 3.7V](https://www.amazon.de/-/en/gp/product/B086HB87HR/ref=ox_sc_act_image_1?smid=A3FC6RYAP9RUTR&psc=1) | battery- power | 1 | $14.00 | $14.00 | [Amazon.de](https://www.amazon.de/-/en/gp/product/B086HB87HR/ref=ox_sc_act_image_1?smid=A3FC6RYAP9RUTR&psc=1) |
 | [MAX98357A Audio Amplifier Module](https://www.amazon.de/-/en/gp/product/B0H5VK7MBJ/ref=ox_sc_act_image_1?smid=A27185JLZNONOX&psc=1) | control speaker/sound | 1 | $6.00 | $6.00 | [Amazon.de](https://www.amazon.de/-/en/gp/product/B0H5VK7MBJ/ref=ox_sc_act_image_1?smid=A27185JLZNONOX&psc=1) |
-| [Waveshare 1.54 inch Touch LCD Display](https://www.amazon.de/-/en/gp/product/B0HLFLGZ9D/ref=ox_sc_act_image_1?smid=A24QRE9ZF4AAPS&psc=1) | the main screen to show stuff on it | 1 | $27.00 | $27.00 | [Amazon.de](https://www.amazon.de/-/en/gp/product/B0HLFLGZ9D/ref=ox_sc_act_image_1?smid=A24QRE9ZF4AAPS&psc=1) |
-| **Parts subtotal** | — | — | — | **$64.00** | — |
+| **Parts subtotal** | — | — | — | **$37.00** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$64.00** | — |
+| **Total** | — | — | — | **$37.00** | — |
 
-$1.00 left of the tier's funding.
+$28.00 left of the tier's funding.
