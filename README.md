@@ -37,7 +37,7 @@ Battery, switch and motor are soldered to pads on the main board.
 **Photos & Screenshots**
 Schematic: <img width="1364" height="661" alt="image" src="https://github.com/user-attachments/assets/cb5ae8b8-fc70-4f4a-ae5f-44452a09bc34" />
 
-**PCB Layout*": <img width="845" height="839" alt="image" src="https://github.com/user-attachments/assets/2786a0b4-ccbc-4134-8632-328596a2327d" />
+**PCB Layout**: <img width="845" height="839" alt="image" src="https://github.com/user-attachments/assets/2786a0b4-ccbc-4134-8632-328596a2327d" />
 
 **3D Model / Build**: <img width="1302" height="903" alt="image" src="https://github.com/user-attachments/assets/7e9544f8-55e4-4a96-8cda-bc765b653f0f" />
 
