@@ -1,6 +1,6 @@
 Overstack
 
-A tiny 30×30 mm pixel buddy with a little LCD screen that you can chat with an AI or play tiny games, like snake. Tilt to scroll through menus or choose letters by pressing and hold to send. The answer shows up on the screen and it buzzes for feedback.
+Overstack was made for Hack Club Half-Life. Overstack is a tiny device that you can play games on it, talk to AI, use a calculator and more. Inside there is a seed Xiao ESP32-S3, MPU, vibration motor and LCD screen all stacked in a 30x30x15mm shell. You navigate through menus by tilting the device, using button to select and hold to send. Vibrates for feedback and shows answer on screen. The calculator or talking to the AI works by choosing a letter or number to make a word and then make a sentence, then hold the button to send and then know the answer or number.
 
 **How It Works**:
 Main board: XIAO ESP32S3 (WiFi + AI), MPU6050 for tilt, one button, a vibration motor and a LiPo with a power switch. It charges over the XIAO's USB-C.
