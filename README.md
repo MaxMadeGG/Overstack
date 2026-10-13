@@ -45,3 +45,4 @@ PCB Layout: <img width="845" height="839" alt="image" src="https://github.com/us
 - `hardware/
 - `firmware/
 - `cad/
+ > **Note:** The build and CAD is to be added 
