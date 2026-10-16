@@ -4,12 +4,12 @@
 <!-- Generated: 1970-01-01T00:00:00.000Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmv56zohv0h1d01n0zpsbvw1s). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > The enclosure for the PCB i designed in week 1 and such
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 2 | 0h | 0 |
+| Week 2 | Tier 1 | 0h | 0 |
 
 _No entries logged yet._
