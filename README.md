@@ -39,7 +39,8 @@ Schematic: <img width="1364" height="661" alt="image" src="https://github.com/us
 
 **PCB Layout**: <img width="845" height="839" alt="image" src="https://github.com/user-attachments/assets/2786a0b4-ccbc-4134-8632-328596a2327d" />
 
-**3D Model / Build**: <img width="949" height="866" alt="image" src="https://github.com/user-attachments/assets/631455d2-a5fa-48ea-bc5c-d66f52e57887" />
+**3D Model / Build**: <img width="949" height="866" alt="image" src="https://github.com/user-attachments/assets/52666771-4896-4d50-875c-3362b9150393" />
+
 
 
 ## Repository Structure
