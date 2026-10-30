@@ -1,2 +1,5 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-Estimated total shipping,1,,,$0.00,
+Seed Xiao ESP32-S3,1,Amazon.de,$17.00,$17.00,https://www.amazon.de/-/en/gp/product/B0GZTF723K/ref=ewc_pr_img_6?smid=A2OYQMAUQB5NOO&th=1
+LiPo 3.7V,1,Amazon.de,$13.00,$13.00,https://www.amazon.de/-/en/gp/product/B0CLQPJDX3/ref=ox_sc_act_image_1?smid=A3FC6RYAP9RUTR&psc=1
+Waveshare 0.85 inch LCD Display,1,Amazon.de,$16.00,$16.00,https://www.amazon.de/-/en/gp/product/B0FRM8KVTD/ref=ox_sc_act_image_1?smid=A1XDN6LSMACAXM&psc=1
+Estimated total shipping,1,,,$12.00,
