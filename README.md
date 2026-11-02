@@ -23,16 +23,27 @@ Main board: XIAO ESP32S3 (WiFi + AI), MPU6050 for tilt, one button, a vibration 
 Battery, switch and motor are soldered to pads on the main board.
 
 **Bill of Materials** (BOM)
-| Part | Description | Qty | Price | Vendor |
-| :--- | :--- | :--- | :--- | :--- |
-| XIAO ESP32S3 | Microcontroller | 1 | $17.00 | [Amazon.de]() |
-| LiPo 402525 | 3.7 V 200 mAh battery | 1 | $13.00 | [Amazon.de]() |
-| MPU6050 | Accelerometer + gyro | 1 | $0.00 | Local shop |
-| Vibration motor | From an old Pixel | 1 | $0.00 | Salvaged |
-| BC337, 1N4148, resistors, 100 nF cap | Motor driver + battery sense | 1 set | $0.00 | Local shop |
-| Button + slide switch | Input + power | 1 each | $0.00 | Local shop |
-| Waveshare 0.85" LCD | 128×128 IPS, SPI | 1 | $15.00 | [Amazon.de]() |
-| **Total** | | | **$53.00** | |
+| Part | Value | Qty | Price | Source | Have it? |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| XIAO ESP32S3 | Microcontroller | 1 | $17.00 | Amazon.de | No |
+| Waveshare 0.85" LCD | 128×128 screen, SPI | 1 | $15.00 | Amazon.de | No |
+| LiPo battery | 402525, 3.7 V 200 mAh | 1 | $13.00 | Amazon.de | No |
+| MPU6050 (GY-521) | Accelerometer + gyro | 1 | $3.00 | Amazon.de | Yes |
+| Vibration motor | Cylinder motor | 1 | $0.00 | Salvaged (Pixel) | Yes |
+| BC337-40 | NPN transistor | 1 | $0.20 | Local shop | No |
+| 1N4148 | Diode | 1 | $0.10 | Local shop | No |
+| Resistor | 1 kΩ | 1 | $0.10 | Local shop | No |
+| Resistor | 10 kΩ | 2 | $0.20 | Local shop | No |
+| Capacitor | 100 nF | 1 | $0.10 | Local shop | Yes |
+| Tactile button | Side push | 1 | $0.00 | Salvaged | Yes |
+| Slide switch | Power on/off | 1 | $0.00 | Salvaged | Yes |
+| Female header | 1×8, 2.54 mm | 1 | $0.40 | Local shop | Yes |
+| Wire | Thin silicone wire | 1 | $1.00 | Amazon.de | Yes |
+| Shipping | Amazon.de + buffer | 1 | $12.00 | Amazon.de | No |
+| **Total (budget)** | | | **$62.10** | | |
+| PCB | 2-layer, 30×30 mm, 5 pcs | 1 | $2.00 | JLCPCB | No |
+| PCB shipping | Estimate | 1 | $4.00 | JLCPCB | No |
+| **Total (PCB, not in budget)** | | | **$6.00** | | |
 
 **Photos & Screenshots**
 Schematic: <img width="1364" height="661" alt="image" src="https://github.com/user-attachments/assets/cb5ae8b8-fc70-4f4a-ae5f-44452a09bc34" />
