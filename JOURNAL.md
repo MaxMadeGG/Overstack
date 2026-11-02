@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/cmuv71lay0e8a01smfgrxdsi0)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A tiny pocket tamagotchi/hacker tool/assistant powered by a seed XIAO S3 including a speaker, microphone, MPU- gyroscope, vibrating motor and a screen
+> A tiny pocket tamagotchi/hacker tool/assistant powered by a seed XIAO S3 It's a tiny device that you can play games on it, talk to AI, use a calculator and more. Inside there is a seed Xiao ESP32-S3, MPU, vibration motor and LCD screen all stacked in a 30x30x15mm shell. You navigate through menus by tilting the device, using button to select and hold to send. Vibrates for feedback and shows answer on screen. The calculator or talking to the AI works by choosing a letter or number to make a word and then make a sentence, then hold the button to send and then know the answer or number.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
