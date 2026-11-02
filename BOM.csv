@@ -1,20 +1,5 @@
-Part,Value,Qty,Price (USD),Source,Have it?
-XIAO ESP32S3,Microcontroller,1,17.00,Amazon.de,No
-Waveshare 0.85" LCD,"128x128 screen, SPI",1,15.00,Amazon.de,No
-LiPo battery,"402525, 3.7 V 200 mAh",1,13.00,Amazon.de,No
-MPU6050 (GY-521),Accelerometer + gyro,1,3.00,Amazon.de,Yes
-Vibration motor,Cylinder motor,1,0.00,Salvaged (Pixel),Yes
-BC337-40,NPN transistor,1,0.20,Local shop,No
-1N4148,Diode,1,0.10,Local shop,No
-Resistor,1 kOhm,1,0.10,Local shop,No
-Resistor,10 kOhm,2,0.20,Local shop,No
-Capacitor,100 nF,1,0.10,Local shop,Yes
-Tactile button,Side push,1,0.00,Salvaged,Yes
-Slide switch,Power on/off,1,0.00,Salvaged,Yes
-Female header,"1x8, 2.54 mm",1,0.40,Local shop,Yes
-Wire,Thin silicone wire,1,1.00,Amazon.de,Yes
-Shipping,Amazon.de + buffer,1,12.00,Amazon.de,No
-Total (budget),,,62.10,,
-PCB,"2-layer, 30x30 mm, 5 pcs",1,2.00,JLCPCB,No
-PCB shipping,Estimate,1,4.00,JLCPCB,No
-Total (PCB),,,6.00,,
+Item,Qty,Supplier,Cost/item,Total Cost,link
+Seed Xiao ESP32-S3,1,Amazon.de,$17.00,$17.00,https://www.amazon.de/-/en/gp/product/B0GZTF723K/ref=ewc_pr_img_6?smid=A2OYQMAUQB5NOO&th=1
+LiPo 3.7V,1,Amazon.de,$13.00,$13.00,https://www.amazon.de/-/en/gp/product/B0CLQPJDX3/ref=ox_sc_act_image_1?smid=A3FC6RYAP9RUTR&psc=1
+Waveshare 0.85 inch LCD Display,1,Amazon.de,$16.00,$16.00,https://www.amazon.de/-/en/gp/product/B0FRM8KVTD/ref=ox_sc_act_image_1?smid=A1XDN6LSMACAXM&psc=1
+Estimated total shipping,1,,,$12.00,
